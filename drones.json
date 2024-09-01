@@ -1,5 +1,5 @@
 {
-    "version": "v0.1",
+    "version": "v0.2",
     "drones": [
         "dji", "bebop", "anafi", "yuneec", "typhoon", "fpv", 
         "syma", "x star", "evo", "wifi 4k", "potensic", 
