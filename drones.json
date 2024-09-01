@@ -1,5 +1,5 @@
 {
-    "version": "v0.2",
+    "version": "v0.3",
     "drones": [
         "dji", "bebop", "anafi", "yuneec", "typhoon", "fpv", 
         "syma", "x star", "evo", "wifi 4k", "potensic", 
@@ -10,6 +10,7 @@
         "betafpv", "iflight", "emax", "whoop", "flywoo", 
         "geprc", "ruko", "visuo", "l109", "l900", "zerotech",
         "powervision", "teal", "airsense", "droneeye", 
-        "contixo", "droneclone", "force1", "sharp image"
+        "contixo", "droneclone", "force1", "sharp image",
+        "mini", "mavic"
     ]
 }
