@@ -1,6 +1,14 @@
 {
-    "drones": ["dji", "bebop", "anafi", "yun", "typhoon", "fpv", 
-               "syma", "x star", "evo", "wifi 4k", "potensic", 
-               "airon", "hubsan", "hs", "holystone", "eachine", 
-               "idea", "parrot"]
+    "drones": [
+        "dji", "bebop", "anafi", "yuneec", "typhoon", "fpv", 
+        "syma", "x star", "evo", "wifi 4k", "potensic", 
+        "airon", "hubsan", "hs", "holystone", "eachine", 
+        "idea", "parrot", "autel", "skydio", "fimi", 
+        "walkera", "xiro", "jjrc", "mjx", "snaptain", 
+        "drone x pro", "ryze", "zino", "kudrone", "xiomi",
+        "betafpv", "iflight", "emax", "whoop", "flywoo", 
+        "geprc", "ruko", "visuo", "l109", "l900", "zerotech",
+        "powervision", "teal", "airsense", "droneeye", 
+        "contixo", "droneclone", "force1", "sharp image"
+    ]
 }
